@@ -1,4 +1,4 @@
-<img width="685" height="412" alt="image" src="https://github.com/user-attachments/assets/48b2d840-7abd-4fbb-a275-e214f3faf7da" /># HighLightActors
+# HighLightActors
 
 HighLightActors 是一个适用于 Unreal Engine 5.8 的运行时插件，用 Custom Depth/Stencil 和后处理材质给 Actor 绘制可配置的轮廓。插件支持 C++ 与蓝图调用。
 
