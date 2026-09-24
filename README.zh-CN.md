@@ -114,7 +114,8 @@ UHighLightActorsLibrary::ClearHighlights(GetWorld());
 
 ### 游戏运行时选中 Actor 的轮廓效果。
 > <img width="1920" height="1032" alt="image" src="https://github.com/user-attachments/assets/8bfeaa37-a85b-4d82-9cf4-4962963c218e" />
-> <img width="1920" height="1032" alt="image" src="https://github.com/user-attachments/assets/542c3ce4-8045-4d90-a6a0-9efd005afa4c" />
+> <img width="1920" height="1032" alt="image" src="https://github.com/user-attachments/assets/2f3d3100-5b8a-4dba-a05b-beb58f11f5bf" />
+
 
 ## 压缩包内容
 
