@@ -13,7 +13,7 @@ HighLightActors 是一个适用于 Unreal Engine 5.8 的运行时插件（同时
 ## 版本与要求
 
 - 插件版本：**1.0.0**
-- 已验证引擎：Unreal Engine **5.8**
+- 已验证引擎：Unreal Engine **5.0-5.8**
 - 插件源码模块：HighLightActors（Runtime）
 
 ## 安装到 UE 项目
