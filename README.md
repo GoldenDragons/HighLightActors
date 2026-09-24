@@ -100,6 +100,7 @@ UHighLightActorsLibrary::ClearHighlights(GetWorld());
 | Outline Width | Float | 1.0 | 轮廓宽度，单位为屏幕像素；运行时限制在 0 到 16 之间 |
 
 >  Actor 数组与 Tag 蓝图节点。
+> 
 > <img width="685" height="412" alt="image" src="https://github.com/user-attachments/assets/a1caebf8-c545-4613-8371-081ffbae7353" />
 
 
