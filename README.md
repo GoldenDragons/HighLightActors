@@ -4,6 +4,8 @@ English | [简体中文](README.zh-CN.md)
 
 HighLightActors is a runtime Unreal Engine plugin that draws configurable actor outlines using Custom Depth/Stencil and a post-process material. It provides both C++ and Blueprint APIs.
 
+## Demo:    https://github.com/GoldenDragons/HighLightActorsDemo
+
 ## Features
 
 - Highlight one actor, an actor array, or actors found by one or more tags.
