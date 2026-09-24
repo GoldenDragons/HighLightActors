@@ -105,9 +105,9 @@ Search for **Highlight Actor Outline** in a Blueprint graph and connect the targ
 ## Screenshots
 
 <img width="1914" height="485" alt="Project plugin settings" src="https://github.com/user-attachments/assets/d90e3856-7530-48bd-9aa7-920a69132748" />
-
-<img width="1920" height="1032" alt="Runtime actor outline example" src="https://github.com/user-attachments/assets/8bfeaa37-a85b-4dcd-89f4-4962963c218e" />
 <img width="1920" height="1032" alt="Runtime actor outline example" src="https://github.com/user-attachments/assets/542c3ce4-8045-4d90-a6a0-9efd005afa4c" />
+<img width="1920" height="1032" alt="image" src="https://github.com/user-attachments/assets/a7e63c71-85c6-4338-993f-69eee2614456" />
+
 
 ## Package
 
