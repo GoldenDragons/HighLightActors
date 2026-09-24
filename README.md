@@ -74,7 +74,7 @@ UHighLightActorsLibrary::ClearHighlights(GetWorld());
 
 在蓝图图表中搜索 **Highlight Actor Outline**，把 Actor 接到目标输入即可。World Context 在普通蓝图中通常自动隐藏。数组和 Tag 版本位于 HighLightActors|Highlight 分类中。
 
-> 单 Actor 高亮蓝图节点与参数面板。
+## 单 Actor 高亮蓝图节点与参数面板。
 > <img width="1448" height="672" alt="image" src="https://github.com/user-attachments/assets/e07cf93c-0c46-4348-9b64-d66c1cd6ce76" />
 
 
@@ -99,20 +99,18 @@ UHighLightActorsLibrary::ClearHighlights(GetWorld());
 | Outline Color | Linear Color | (0.828, 0.364, 0.003, 1) | 本次调用使用的轮廓颜色，默认对应 UE 5.8 编辑器默认选中色 |
 | Outline Width | Float | 1.0 | 轮廓宽度，单位为屏幕像素；运行时限制在 0 到 16 之间 |
 
->  Actor 数组与 Tag 蓝图节点。
-> 
+## Actor 数组与 Tag 蓝图节点。
 > <img width="685" height="412" alt="image" src="https://github.com/user-attachments/assets/a1caebf8-c545-4613-8371-081ffbae7353" />
 
 
-## 截图占位
 
-> 项目插件设置页面。
+## 项目插件设置页面。
 > <img width="1914" height="485" alt="image" src="https://github.com/user-attachments/assets/d90e3856-7530-48bd-9aa7-920a69132748" />
 
 
 
 
->  游戏运行时选中 Actor 的轮廓效果。
+## 游戏运行时选中 Actor 的轮廓效果。
 > <img width="1920" height="1032" alt="image" src="https://github.com/user-attachments/assets/8bfeaa37-a85b-4d82-9cf4-4962963c218e" />
 > <img width="1920" height="1032" alt="image" src="https://github.com/user-attachments/assets/542c3ce4-8045-4d90-a6a0-9efd005afa4c" />
 
